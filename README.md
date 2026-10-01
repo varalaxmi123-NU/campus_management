@@ -1,11 +1,11 @@
-# Campus Placement Management System 🎓🚀
+# Campus Placement Management System 
 
 A full-stack, real-time operating system designed to revolutionize how colleges manage campus placements. Built for students, companies, and placement cells.
 
-## 🌟 Problem Solved
+##  Problem Solved
 Most colleges still manage placements using fragmented spreadsheets, endless email threads, and chaotic WhatsApp groups. This platform unifies the entire workflow into a single, seamless, role-based platform.
 
-## ✨ Core Features
+## Core Features
 - **Student Registration & Login**: Secure student onboarding with unified authentication.
 - **Company Registration**: Dedicated recruiter accounts managed securely.
 - **Placement Drive Creation**: Companies can post detailed job openings and campus drives.
@@ -17,14 +17,14 @@ Most colleges still manage placements using fragmented spreadsheets, endless ema
 - **Placement Analytics**: Real-time insights and metrics on campus hiring.
 - **Email Notifications**: Automated OTP verification and alert system.
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend**: React (Vite) + Vanilla CSS (Glassmorphism UI)
 - **Backend**: Node.js + Express.js
 - **Database**: MongoDB + Mongoose
 - **Security**: JWT Authentication + bcryptjs
 - **Emails**: Nodemailer
 
-## 💡 Why Recruiters (and Interviewers) Like It
+##  Why Recruiters (and Interviewers) Like It
 This project serves as a masterclass in full-stack architecture. It practically demonstrates:
 - **Role-based Authentication**: A unified login gateway routing to 3 completely isolated dashboards (Student, Company, Admin).
 - **Complex Database Relationships**: Intricate data mapping between Users, Jobs, Applications, and Placement Records.
